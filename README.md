@@ -7,4 +7,4 @@ Entregas 2023
 *  Videla Jose, <josevidelita98@gmail.com>
 <hr>
 
-![cambiar foto]("C:\Users\guada\Desktop\Imagen de WhatsApp 2023-03-15 a las 18.42.01.jpg")
+![cambiar foto]()
