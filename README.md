@@ -7,4 +7,4 @@ Entregas 2023
 *  Videla Jose, <josevidelita98@gmail.com>
 <hr>
 
-![cambiar foto](foto.png)
+![cambiar foto](foto.jpg)
